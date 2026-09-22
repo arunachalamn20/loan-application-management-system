@@ -24,7 +24,7 @@
 
 ## Screenshots
 
-### Swagger UI - Main APIs
+### Swagger UI - Repayment and Dashboard APIs
 
 ![Swagger Home 1](screenshots/swagger-home-1.png)
 
@@ -32,7 +32,7 @@
 
 ![Swagger Home 2](screenshots/swagger-home-2.png)
 
-### Swagger UI - Repayment and Dashboard APIs
+### Swagger UI - Customer APIs
 
 ![Swagger Home 3](screenshots/swagger-home-3.png)
 
